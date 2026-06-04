@@ -45,6 +45,16 @@ Follow these steps to download and set up the tool:
 
 ---
 
+## Try this Method did not Intall
+    ```bash
+     sudo apt update
+     sudo apt install python3-venv -y
+
+     python3 -m venv venv
+     source venv/bin/activate
+
+     pip install -r requirements.txt
+
 ## Usage
 
 Once everything is installed, you can start using the tool with a simple command:
