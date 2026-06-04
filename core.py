@@ -50,8 +50,7 @@ def get_functions(modules,args=None):
 
 def credit():
     """Print Credit"""
-    print('Twitter : @asharbinkhalil')
-    print('Github : https://github.com/asharbinkhalil/otpbomber')
+    print('Github : https://github.com/zaidkhan0340/otpbomber')
     print('Repositry Structure Inspired by https://github.com/megadose/holehe')
 
 
